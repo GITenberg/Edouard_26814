@@ -1,0 +1,37 @@
+_repo: Edouard_26814
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duras, Claire de Durfort, duchesse de
+    aliases:
+    - Durfort, Claire Louise Rose Bonne de Coetnempren de Kersaint de, duchesse de
+      Duras
+    - Durfort, Claire Louise Rose Bonne de Coëtnempren de Kersaint de, duchesse de
+      Duras
+    birthdate: 1777
+    deathdate: 1828
+    gutenberg_agent_id: '32255'
+    url: http://www.gutenberg.org/2009/agents/32255
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Claire_de_Duras
+    - http://fr.wikipedia.org/wiki/Claire_de_Duras
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26814'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'France -- Social life and customs -- 18th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Romance fiction'
+title: Edouard
+url: http://www.gutenberg.org/ebooks/26814
